@@ -1,6 +1,6 @@
 # Flutter Pomodoro
 
-## <p align="left">Projeto flutter criado para praticar lógica utilizando Mobx</p>
+### <p align="left">Projeto flutter criado para praticar lógica utilizando Mobx</p>
 
 <p align="center">
 <img src="screenshots/1.png" height="250">
