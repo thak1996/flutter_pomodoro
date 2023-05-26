@@ -1,16 +1,12 @@
-# flutter_pomodoro
+# Flutter Pomodoro
 
-A new Flutter project.
+## <p align="left">Projeto flutter criado para praticar lógica utilizando Mobx</p>
 
-## Getting Started
+<p align="center">
+<img src="screenshots/1.png" height="250">
+<img src="screenshots/2.png" height="250">
+<img src="screenshots/3.png" height="250">
+<img src="screenshots/4.png" height="250">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p> Funções como incrementar e decrementar tempo relacionado a descanso e hora de trabalhar, incluindo mudança de cor para auxiliar na diferença visual de ambos, e controle de valores negativos para os timers. </p>
